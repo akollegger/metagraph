@@ -1,9 +1,7 @@
 # Metagraph
 
-An exploratory project for defining a "metagraph" which is:
-
-- descriptive of the contents of a Property Graph
-- prescriptive about the desired shape of a Property Graph
+An exploratory project for defining a "metagraph" which
+can usefully describe the content of a Property Graph.
 
 ### Footnotes
 
